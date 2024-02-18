@@ -10,7 +10,7 @@ This is a simple newsletter signup page designed using HTML and CSS. It provides
 - Dismiss message: Users can dismiss the subscription confirmation message using the provided button.
   
 ## Demo
-You can view a live demo of the newsletter signup page [here.](https://your-demo-link.com/)
+You can view a live demo of the newsletter signup page [here.](https://pdineshmurugan.github.io/NewsLetterSingUp/newsletter-sign-up-with-success-message-main/)
 
 ## Usage
 
