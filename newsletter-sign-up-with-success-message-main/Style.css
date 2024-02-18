@@ -1,0 +1,92 @@
+*{
+    font-family: "Roboto", sans-serif;
+    background: hsl(234, 29%, 20%);
+    
+   
+}
+body{
+ display: flex;
+ align-items: center;
+ height: 100vh;
+ justify-content: center;
+}
+h1{
+    background-color: white;
+    color:  hsl(234, 29%, 20%);
+}
+.miniContainer{
+    background-color: white;
+   
+}
+ul{
+    background-color: white;
+    list-style-type: none;
+    line-height: 30px;
+}
+
+ul li{
+    background-color: white;
+    text-decoration: none;
+    
+}
+.mainContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.mainContainer{
+    background-color: white;
+    width: 690px;
+    height: 410px;
+    border-radius: 20px; 
+   padding: 15px; 
+}
+ul li img{
+    background-color: white;
+    width: 20px;
+    padding: 0px 5px;
+    vertical-align: middle;
+    
+}
+#email{
+    background-color: white;
+    cursor: pointer;
+    height: 48px;
+    width: 380px;
+    border-radius: 7px;
+    margin: 10px;
+}
+
+.sideimg{
+display: flex;
+flex-direction: row;
+margin-left: 10px;
+}
+.sideimg img{
+    height: 400px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    cursor: pointer;
+       
+    background: hsl(4, 100%, 67%);
+    width: 390px;
+    border-radius: 10px;
+    
+}
+
+.container a{
+    text-decoration: none;
+  padding: 20px;
+  width: 300px;
+    margin-left: 10px;
+    align-items: center;
+    display: flex;
+    color:white;
+    justify-content: center;
+    background-color:hsl(4, 100%, 67%) ;
+}
